@@ -1,5 +1,5 @@
 # ButtonBatteryCylinder
-This is a remix of https://www.thingiverse.com/thing:5201315 inspired by the design in https://www.thingiverse.com/thing:5322108
+This is a remix of https://www.thingiverse.com/thing:5201315 by [mlask](https://www.thingiverse.com/mlask) inspired by the design in https://www.thingiverse.com/thing:5322108 by [koensmelt](https://www.thingiverse.com/koensmelt)
 
 It incorporates brodykenrick's text_on_OpenSCAD: https://github.com/brodykenrick/text_on_OpenSCAD
 
