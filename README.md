@@ -3,7 +3,7 @@ This is a remix of https://www.thingiverse.com/thing:5201315 inspired by the des
 
 It incorporates brodykenrick's text_on_OpenSCAD: https://github.com/brodykenrick/text_on_OpenSCAD
 
-It will create cylindrical cases to store button batteries, and most existing battery types with a configurable number of batteries.
+It will create cylindrical cases to store button batteries, and support most existing battery types with a configurable number of batteries.
 
 # Development
 
