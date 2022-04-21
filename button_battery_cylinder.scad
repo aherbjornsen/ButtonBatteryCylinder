@@ -10,11 +10,11 @@
 
 model = 2032; // [1254: LR44, 927: CR927, 1025: CR1025, 1130: CR1130, 1216: CR1216, 1220: CR1220, 1225: CR1225, 1616: CR1616, 1620: CR1620, 1632: CR1632, 2012: CR2012, 2016: CR2016, 2020: CR2020, 2025: CR2025, 2032: CR2032, 2040: CR2040, 2320: CR2320, 2325: CR2325, 2330: CR2330, 2335: BR2335, 2354: CR2354, 2412: CR2412, 2430: CR2430, 2450: CR2450, 2477: CR2477, 3032: CR3032]
 
-// default 20
-Tray_items = 16;
+// default 16
+Tray_items = 16; // [1:1:30]
 
-Cover_font_size = 6;
-Tray_font_size = 2;
+Cover_font_size = 6; // [1:1:10]
+Tray_font_size = 2; // [1:1:7]
 
 Render_tray = true;
 Render_cover = true;
